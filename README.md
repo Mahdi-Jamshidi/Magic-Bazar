@@ -2,13 +2,14 @@
 
 Technologies used in this project:
 
-retrofit
-kotlin    coroutines
+1-retrofit
 
-co-koin
+2-kotlin coroutines
 
-room
+3-co-koin
 
-mvvm
+4-room
 
-jetpack compose
+5-mvvm
+
+6-jetpack compose
