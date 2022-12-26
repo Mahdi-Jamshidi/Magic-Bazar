@@ -3,7 +3,7 @@
 Technologies used in this project:
 
 retrofit
-kotlin coroutines
+kotlin    coroutines
 
 co-koin
 
