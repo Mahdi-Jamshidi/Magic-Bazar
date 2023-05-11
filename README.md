@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">Screen shots</h1>
+## Screen shots
 
 ###
 
@@ -27,8 +27,7 @@
 
 ###
 
-
-
+## Preview
 https://github.com/MagicCodes01/Magic-Bazar/assets/101273209/48039670-5d64-4bcf-968d-69a7f1c76c0d
 
 
